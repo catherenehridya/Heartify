@@ -1,1 +1,2 @@
-# Heartify
+# Heartify - A Smart Ring Leveraging Federated Learning for Early Detection of Heart Diseases
+Heartify is a smart ring system that applies Federated Learning (FL) with an ensemble model of CNN-GRU and DNN networks to facilitate early detection of heart diseases. By implementing edge computing principles, Heartify enables secure and private health data analysis on individual devices, reducing the need for centralized data storage. The system utilizes the Framingham Heart Study dataset to train and evaluate the ensemble model's performance in predicting cardiovascular risks.
